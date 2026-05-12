@@ -1,7 +1,9 @@
 # PHRMS - Account & Data Deletion Request
 
 **App:** PHRMS (Patient Health Records Management System)
-**Developer / Operator:** Sassoon General Hospital, Pune, India
+
+**Developer / Operator:** Dr. Mrudula Phule - Sassoon General Hospital, Pune, India
+
 **Last updated:** 12 May 2026
 
 ## Who can request deletion through this page
