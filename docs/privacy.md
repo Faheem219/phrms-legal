@@ -1,6 +1,7 @@
 # PHRMS — Privacy Policy
 
 **Effective date:** [12 May 2026]
+
 **Last updated:** [12 May 2026]
 
 ## 1. Who this app is for
@@ -121,5 +122,7 @@ always at this URL.
 ## 12. Contact
 
 **[Dr. Mrudula Phule - Sassoon General Hospital]**
+
 **[Jai Prakash Narayan Road, Railway Station Rd, Agarkar Nagar, Pune, Maharashtra 411001]**
+
 **Email: [phulevaishali@gmail.com]**
