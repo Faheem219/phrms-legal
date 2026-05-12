@@ -1,4 +1,4 @@
-# PHRMS — Privacy Policy
+# PHRMS - Privacy Policy
 
 **Effective date:** [12 May 2026]
 
